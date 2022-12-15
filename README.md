@@ -3,7 +3,7 @@
 - 🔭 I’m currently looking for new opportunities to explore.
 - 🌱 I’m a Front-End Web Development (HTML,CSS(Bootstrap), JavaScript, ReactJS), Git and GitHub.
 - 👯 I’m looking to collaborate on JavaScript, React Projects.
-- 🤔 I’m passionate about programming and I love travelling, Working Out🏋️ and creating interesting Web Apps.
+- 🤔 I’m passionate about programming and I love travelling, WorkOuts🏋️ and creating interesting Web Apps.
 - 💬 Ask me about anything productive.
 - 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/rajat-sundriyal-9a4a09133/) and on [Twitter](https://twitter.com/SundriyalRajat)
 - ⚡ Fact about me: I wrote my first line of code in 2019 and I got a Front-End Dev gig later on. Hardwork pays!
